@@ -1,2 +1,4 @@
-# reversi.c
-Reversi game against computer.
+# Mini Ming Games
+Current games:
+> Reversi
+> Minesweeper
